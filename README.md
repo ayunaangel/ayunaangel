@@ -18,7 +18,6 @@ Crio interfaces e ferramentas para a web com foco em desempenho, usabilidade e u
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## 🚀 Projetos em destaque
 
@@ -42,7 +41,7 @@ Treino de reflexo, mira e teclado para FPS, com aquecimentos guiados, 7 modos e 
 
 Utilitário local para Windows: efeitos de voz, narração por texto e mixagem de áudio em tempo real a 48 kHz.
 
-`Windows` · `C++ / WASAPI` · `Áudio local`
+`Windows` · `Áudio local` · `Tempo real`
 
 [🌐 Site](https://yummi-site-two.vercel.app/) · [📄 Detalhes](https://ayuna-portfolio.vercel.app/pt-br/projects/yummi)
 

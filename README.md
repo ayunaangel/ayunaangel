@@ -50,7 +50,7 @@ Utilitário local para Windows: efeitos de voz, narração por texto e mixagem d
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ayunaangel&theme=react&hide_border=true" alt="Streak de contribuições" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayunaangel&theme=react&hide_border=true" alt="Streak de contribuições" />
 
 </div>
 

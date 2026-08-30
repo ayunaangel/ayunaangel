@@ -1,34 +1,30 @@
 <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="glow" cx="50%" cy="42%" r="65%">
-      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.30"/>
-      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#7B1450" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
     <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
-      <circle cx="1.6" cy="1.6" r="1.6" fill="#241c30"/>
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#1a0510"/>
     </pattern>
     <linearGradient id="underline" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#A855F7" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#EC4899" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="wordmark" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#A855F7"/>
-      <stop offset="100%" stop-color="#EC4899"/>
+      <stop offset="0%" stop-color="#7B1450" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A8285E" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7B1450" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <rect width="900" height="220" fill="#0d1117"/>
+  <rect width="900" height="220" fill="#000000"/>
   <rect width="900" height="220" fill="url(#dots)"/>
   <rect width="900" height="220" fill="url(#glow)"/>
 
-  <text x="40" y="185" font-family="Consolas, 'Courier New', monospace" font-size="150" font-weight="700" fill="#181022">&lt;/&gt;</text>
+  <text x="40" y="185" font-family="Consolas, 'Courier New', monospace" font-size="150" font-weight="700" fill="#130308">&lt;/&gt;</text>
 
-  <text x="450" y="105" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="58" font-weight="700" fill="url(#wordmark)" letter-spacing="8">AYUNA</text>
+  <text x="450" y="105" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="58" font-weight="700" fill="#FFFFFF" letter-spacing="8">AYUNA</text>
 
   <rect x="360" y="122" width="180" height="3" rx="1.5" fill="url(#underline)"/>
 
-  <text x="450" y="155" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#c9d1d9">Desenvolvedor Front-end · Vibe Coder</text>
+  <text x="450" y="155" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#FFFFFF">Desenvolvedor Front-end · Vibe Coder</text>
 
-  <text x="450" y="184" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#6e7681">// interfaces, automação e um toque de IA</text>
+  <text x="450" y="184" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#8a8a8a">// interfaces, automação e um toque de IA</text>
 </svg>

@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayuna-portfolio.vercel.app/pt-br)
+[![Portfólio](https://img.shields.io/badge/Portfólio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://ayuna-portfolio.vercel.app/pt-br)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayunaangel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayunaangel.l)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Caty_one1)
@@ -81,7 +81,7 @@ Utilitário local para Windows: efeitos de voz, narração por texto e mixagem d
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayunaangel&theme=react&hide_border=true" alt="Streak de contribuições" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayunaangel&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EC4899&sideLabels=C9D1D9&dates=8B94A3" alt="Streak de contribuições" />
 
 </div>
 
@@ -92,6 +92,6 @@ Utilitário local para Windows: efeitos de voz, narração por texto e mixagem d
 > Código bom é aquele que funciona — e fica ainda melhor quando a IA ajuda a escrever.
 > Vibe check antes do commit. 🎧
 
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=ayunaangel&color=61DAFB&style=flat)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=ayunaangel&color=EC4899&style=flat)
 
 </div>

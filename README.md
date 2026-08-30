@@ -1,21 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=61DAFB&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Ayuna+%F0%9F%91%8B;Desenvolvedor+Front-end;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Vibe+Coder+%F0%9F%8E%A7" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/ayunaangel/ayunaangel/main/assets/banner.svg" width="100%" alt="Ayuna — Desenvolvedor Front-end" />
 
-<br/>
+<br/><br/>
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayuna-portfolio.vercel.app/pt-br)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayunaangel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayunaangel.l)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Caty_one1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cipher.arikalor@gmail.com)
 
 </div>
 
 <br/>
 
-**Desenvolvedor Front-end** · Brasil · 🎧 *vibe coder*
+## 👋 Sobre mim
 
-Crio interfaces e ferramentas para a web com foco em desempenho, usabilidade e uso real — do front-end ao utilitário de desktop.
+Olá! Me chamo Ayuna. Sou freelancer e atuo como **Desenvolvedor Front-end**, com experiência também em aplicações mobile e automação com Python.
+
+Atualmente estou estudando LLMs — pretendo mergulhar de vez no mundo da IA. E sim, uso IA no meu fluxo de código: acho que isso deixa o desenvolvimento mais rápido e eficiente. 🎧 *vibe coder até o fim.*
 
 🔗 **[Ver portfólio completo →](https://ayuna-portfolio.vercel.app/pt-br)**
 
@@ -86,7 +89,8 @@ Utilitário local para Windows: efeitos de voz, narração por texto e mixagem d
 
 <div align="center">
 
-💡 Sempre aberto a colaborar em projetos que unam código bem escrito e boa interface.
+> Código bom é aquele que funciona — e fica ainda melhor quando a IA ajuda a escrever.
+> Vibe check antes do commit. 🎧
 
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=ayunaangel&color=61DAFB&style=flat)
 
